@@ -1,0 +1,142 @@
+---------- FUNCTION 1 ----------
+
+Initial point: 			 [2.6540 ; 3.8958]
+
+Gradient method: 		 xk=[1.9997; 0.9996], 	 k=598
+Simple Newton method: 		 xk=[2.0000; 1.0000], 	 k=3
+Enhanced Newton: 		 xk=[2.0000; 1.0000], 	 k=3
+Newton With rank Correction: 	 xk=[2.0000; 1.0000], 	 k=3
+Quasi-Newton: 			 xk=[2.0000; 1.0000], 	 k=3
+
+
+
+---------- FUNCTION 2 ----------
+
+Initial point: 			 [4.6701 ; 0.6495]
+
+Gradient method: 		 xk=[0.9990; -1.0005], 	 k=382
+Simple Newton method: 		 xk=[1.0000; -1.0000], 	 k=3
+Enhanced Newton: 		 xk=[1.0000; -1.0000], 	 k=3
+Newton With rank Correction: 	 xk=[1.0000; -1.0000], 	 k=4
+Quasi-Newton: 			 xk=[1.0000; -1.0000], 	 k=3
+
+
+
+---------- FUNCTION 3 ----------
+
+Initial point: 			 [2.8441 ; 2.3470]
+
+Gradient method: 		 xk=[-1.0004; 2.3470], 	 k=2
+Simple Newton method: 		 xk=[-1.0000; 2.3470], 	 k=3
+Enhanced Newton: 		 xk=[-1.0000; 2.3470], 	 k=2
+Newton With rank Correction: 	 xk=[-0.9999; 2.3470], 	 k=1
+Quasi-Newton: 			 xk=[-0.9999; 2.3470], 	 k=1
+
+
+
+---------- FUNCTION 4 ----------
+
+Initial point: 			 [0.0595 ; 1.6856]
+
+Gradient method: 		 xk=[-3.9976; 1.9995], 	 k=37
+Simple Newton method: 		 xk=[5.3372; 3.8765], 	 k=6
+Enhanced Newton: 		 xk=[4.1746; 1.3844], 	 k=13567
+Newton With rank Correction: 	 xk=[4.1758; 1.3948], 	 k=13807
+Quasi-Newton: 			 xk=[4.1757; 1.3940], 	 k=13807
+
+
+
+---------- FUNCTION 5 ----------
+
+Initial point: 			 [0.8109 ; 3.9714]
+
+Gradient method: 		 xk=[0.8109; 3.9714], 	 k=1
+Simple Newton method: 		 xk=[0.8145; 4.1013], 	 k=1
+Enhanced Newton: 		 xk=[0.8145; 4.1012], 	 k=1
+Newton With rank Correction: 	 xk=[0.8109; 3.9714], 	 k=0
+Quasi-Newton: 			 xk=[0.8109; 3.9714], 	 k=0
+
+
+
+---------- FUNCTION 6 ----------
+
+Initial point: 			 [1.5561 ; 2.6427]
+
+Gradient method: 		 xk=[-0.0005; -0.0005], 	 k=89
+Simple Newton method: 		 xk=[1.5561; 2.6427], 	 k=100000
+Enhanced Newton: 		 xk=[1.5561; 2.6427], 	 k=100000
+Newton With rank Correction: 	 xk=[NaN; NaN], 	 k=4
+Quasi-Newton: 			 xk=[NaN; NaN], 	 k=4
+
+
+
+---------- FUNCTION 7 ----------
+
+Initial point: 			 [0.8282 ; 3.0099]
+
+Gradient method: 		 xk=[3.7707; 3.9526], 	 k=28659
+Simple Newton method: 		 xk=[1.1509; 3.5818], 	 k=6
+Enhanced Newton: 		 xk=[0.8747; 3.1985], 	 k=3
+Newton With rank Correction: 	 xk=[1.4494; 5.2673], 	 k=2
+Quasi-Newton: 			 xk=[1.4494; 5.2673], 	 k=2
+
+
+
+---------- FUNCTION 8 ----------
+
+Initial point: 			 [1.3149 ; 3.2704]
+
+Gradient method: 		 xk=[-0.0004; -0.0001], 	 k=17
+Simple Newton method: 		 xk=[-0.0000; 9.4248], 	 k=5
+Enhanced Newton: 		 xk=[0.0000; 9.4250], 	 k=21726
+Newton With rank Correction: 	 xk=[0.0001; 3.1408], 	 k=15703
+Quasi-Newton: 			 xk=[0.0001; 3.1408], 	 k=15703
+
+
+
+---------- FUNCTION 9 ----------
+
+Initial point: 			 [3.4461 ; 3.7408]
+
+Gradient method: 		 xk=[0.9945; 1.9894], 	 k=70
+Simple Newton method: 		 xk=[3.5179; 0.9950], 	 k=5
+Enhanced Newton: 		 xk=[3.5179; 1.9899], 	 k=24758
+Newton With rank Correction: 	 xk=[1.9899; 6.9644], 	 k=5
+Quasi-Newton: 			 xk=[-2.9849; 7.9592], 	 k=9
+
+
+
+---------- FUNCTION 10 ----------
+
+Initial point: 			 [2.2527 ; 0.4191]
+
+Gradient method: 		 xk=[0.7945; 0.6308], 	 k=18712
+Simple Newton method: 		 xk=[0.9997; 0.9994], 	 k=8
+Enhanced Newton: 		 xk=[0.9997; 0.9994], 	 k=4244
+Newton With rank Correction: 	 xk=[0.9997; 0.9995], 	 k=4869
+Quasi-Newton: 			 xk=[1.0000; 1.0000], 	 k=66
+
+
+
+---------- FUNCTION 11 ----------
+
+Initial point: 			 [1.1449 ; 4.5667]
+
+Gradient method: 		 xk=[-1.0358; 0.0806], 	 k=100000
+Simple Newton method: 		 xk=[1.1726; 4.4770], 	 k=5
+Enhanced Newton: 		 xk=[1.1726; 4.4770], 	 k=27668
+Newton With rank Correction: 	 xk=[-0.0000; -0.4975], 	 k=7
+Quasi-Newton: 			 xk=[-0.3317; 0.4975], 	 k=9
+
+
+
+---------- FUNCTION 12 ----------
+
+Initial point: 			 [0.7619 ; 4.1291]
+
+Gradient method: 		 xk=[-0.0005; 0.4841], 	 k=239
+Simple Newton method: 		 xk=[0.6186; 0.4846], 	 k=15
+Enhanced Newton: 		 xk=[0.6186; 1.4510], 	 k=3478
+Newton With rank Correction: 	 xk=[1.0939; -0.0000], 	 k=15629
+Quasi-Newton: 			 xk=[1.0938; 0.0000], 	 k=13685
+
